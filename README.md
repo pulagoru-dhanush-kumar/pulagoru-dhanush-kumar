@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22212
-Fork on GitHub
-7153
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Pulagoru Dhanush Kumar</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
