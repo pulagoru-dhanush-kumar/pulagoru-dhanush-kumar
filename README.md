@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhanush-kumar-840242212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-kumar-840242212" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhanush-kumar-840242212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush-kumar-840242212" height="30" width="40" /></a>
 <a href="https://instagram.com/_dh__anush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dh__anush" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20pa1a05d2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20pa1a05d2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/20pa1a05d2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="20pa1a05d2" height="30" width="40" /></a>
