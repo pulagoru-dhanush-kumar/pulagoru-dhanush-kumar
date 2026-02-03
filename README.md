@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, ReactJs, AngularJs**
+- 🌱 Im** QA Engineer with 1 year of experience** and strong hands-on skills in **Java Backend Development (Core Java, Spring MVC, Spring Data JPA)****
 
-- 📫 How to reach me **dhanushvip1729@gmail.com**
+- 📫 How to reach me **dhanushpulagoru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
