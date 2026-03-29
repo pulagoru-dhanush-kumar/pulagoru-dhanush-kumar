@@ -38,7 +38,7 @@ public class DhanushKumar implements BackendDeveloper {
 
 ---
 
-## 🚀 Featured Project — Vijaya Dairy E-Commerce Platform
+## 🚀 Featured Project — Messiah Vijaya Dairy E-Commerce Platform
 
 <div align="center">
 
