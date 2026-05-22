@@ -42,7 +42,7 @@ public class DhanushKumar implements BackendDeveloper {
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-blue?style=for-the-badge)](https://tinyurl.com/messiah-vijaya-dairy-pulagoru)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-blue?style=for-the-badge)](https://tinyurl.com/messiah-vijaya-dairy)
 [![GitHub](https://img.shields.io/badge/📁%20Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/pulagoru-dhanush-kumar/vijaya-dairy)
 [![Portfolio](https://img.shields.io/badge/🗂️%20Portfolio-View-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pulagoru-dhanush-kumar.github.io/Protfolio/)
 
